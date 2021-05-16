@@ -42,8 +42,7 @@ body{
 }
 
 .card1{
-    background-color: var(--bright-orange);
-    
+    background-color: var(--bright-orange); 
     border-top-left-radius: 10px ;
     border-bottom-left-radius: 10px;
 }
@@ -137,18 +136,3 @@ footer{
     font-family: var(--primary-font);
 }
 
-
-@media screen and (max-width: 680px) {
-    body {
-        font-size: 15px;
-        font-family: "Lexend Deca";
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        flex-direction: column;
-        height: min-content;
-        color: var(--very-light-gray);
-      }
-     
-    
-}
