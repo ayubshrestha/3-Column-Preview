@@ -68,7 +68,7 @@ body{
     margin-top: 60px;
     margin-bottom: 30px;
     border-radius: 20px;
-    padding: 10px 30px;
+    padding: 11px 30px;
     color: var(--bright-orange);
     font-family: var(--primary-font);
     font-size: 15px;
@@ -81,7 +81,7 @@ body{
     margin-top: 60px;
     margin-bottom: 30px;
     border-radius: 20px;
-    padding: 10px 30px;
+    padding: 11px 30px;
     color: var(--dark-cyan);
     font-family: var(--primary-font);
     font-size: 15px;
@@ -93,7 +93,7 @@ body{
     margin-top: 60px;
     margin-bottom: 30px;
     border-radius: 20px;
-    padding: 10px 30px;
+    padding: 11px 30px;
     color: var(--very-dark-cyan);
     font-family: var(--primary-font);
     font-size: 15px;
